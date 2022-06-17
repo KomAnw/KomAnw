@@ -8,7 +8,7 @@
  
 ## 🛠 Skills
 ### Client:
- -#### Main:
+ - #### Main:
   - HTML, JavaScript, React, TypeScript
 - #### State management:
     - Redux(thunk, saga), RTK, RTK Query, Mobx, Zustand
